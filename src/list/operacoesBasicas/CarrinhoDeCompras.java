@@ -2,7 +2,6 @@ package list.operacoesBasicas;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.SimpleTimeZone;
 
 public class CarrinhoDeCompras {
     //atributos
